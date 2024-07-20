@@ -7,7 +7,7 @@ This project Online Hotel Management System aims at to develop the software that
 
 Project Category:    RDBMS
 
-Language(s) to be used: PHP 5.6 CSS
+Language(s) to be used: PHP 5.6, CSS
 
 
 
